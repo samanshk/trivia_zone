@@ -2,12 +2,12 @@
 
 A quiz app built using Flutter backend is built using Firebase and Open Trivia Database API is used for fetching questions.
 
-![](./screenshots/01.png)
+![](./screenshots/01.jpeg)
 
-![](./screenshots/02.png)
+![](./screenshots/02.jpeg)
 
-![](./screenshots/03.png)
+![](./screenshots/03.jpeg)
 
-![](./screenshots/04.png)
+![](./screenshots/04.jpeg)
 
-![](./screenshots/05.png)
+![](./screenshots/05.jpeg)
